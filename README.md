@@ -5,4 +5,4 @@ Implémentation JAVA des PSO
 ## Rappel
 Cliquez ici pour voire les diapos.
 
-[Rappel Theorique](/Doc/Introduction_au_PSO.pdf "Introduction au PSO")
+[Rappel Theorique](/Doc/IntroductionPSO.pdf "Introduction au PSO")
