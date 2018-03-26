@@ -1,2 +1,6 @@
 # ParticuleSwarmOptimisation
-JAVA implémentation of PSO
+
+Implémentation JAVA des PSO
+
+
+ [Rappel Theorique] (/Doc/)
